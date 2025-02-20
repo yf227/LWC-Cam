@@ -4,7 +4,7 @@ LEAF Writer Commons Workshop at University of Cambridge, 2025-02-24
 Information about the workshop is at https://www.sas.ac.uk/news-events/events/create-digital-edition-using-leaf-commons
 
 # Workshop Preparation
-Preparation for the "Create a Digital Edition using LEAF Commons" workshop at the School of Advanced Study in collaboration with the Oxford Text Archive. This workshop runs more smoothly if you a) have a GitHub account, b) have forked the workshop repository, and c) pre-authenticated with LEAF-Writer Commons.
+Preparation for the "Create a Digital Edition using LEAF Commons" workshop at the University of Cambridge. This workshop runs more smoothly if you a) have a GitHub account, b) have forked the workshop repository, and c) pre-authenticated with LEAF-Writer Commons. On the laptop that you will bring to the workshop do the following steps: 
 
 * To set up a free GitHub account (if you don't already have one):
   * Go to https://github.com and click 'Sign Up' and follow the instructions to register.
@@ -20,7 +20,7 @@ Preparation for the "Create a Digital Edition using LEAF Commons" workshop at th
   * Use your GitHub credentials to log in.
   * You will be asked to authorize our authentication service, “calincs”. This is fine and is used to pass your authentication to GitHub.
   * Once completed you should be able to see your forked 'LWC-SAS' repository under Open 'from the cloud'. You do not need to do anything with it now. 
-If you had any difficulty with these steps, there is time in the workshop to assist people. 
+If you had any difficulty with these steps, we can sort it out at the start of the workshop. 
 
 # Useful Links
 * LEAF-VRE Website: https://www.leaf-vre.org/
