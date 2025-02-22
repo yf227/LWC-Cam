@@ -1,4 +1,4 @@
-# LWC-SAS
+# LWC-Cam
 LEAF Writer Commons Workshop at University of Cambridge, 2025-02-24
 
 Information about the workshop is at https://www.sas.ac.uk/news-events/events/create-digital-edition-using-leaf-commons
